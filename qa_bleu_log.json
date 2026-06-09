@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Who is rabindranath tagore?",
+    "answer": "There is no mention of Rabindranath Tagore in the provided context. The text appears to be a LaTeX document containing citations and references, but it does not include any information about Tagore or his works.",
+    "bleu_score": 0.0002
+  },
+  {
+    "question": "What is neural network?",
+    "answer": "A neural network is essentially a parametrized family of functions with a differentiable parameterization. Think of it as an artificial model inspired by the structure and function of biological neurons. The most basic architecture, known as a feedforward neural network or multilayer perceptron (MLP), consists of layers: input, hidden, and output, which work together to process data.",
+    "bleu_score": 0.0397
+  },
+  {
+    "question": "who is charlie chaplin?",
+    "answer": "There is no mention of Charlie Chaplin in the provided context. The text appears to be related to academic papers and publications, discussing researchers' backgrounds and research interests.",
+    "bleu_score": 0.0001
+  },
+  {
+    "question": "who is charlie chaplin?",
+    "answer": "Charlie Chaplin was a famous English actor, filmmaker, and composer. He is best known for his iconic character, the Tramp, which became a worldwide symbol of comedy and entertainment. Throughout his long career, which spanned over 75 years, he rose to become one of the most influential figures in the film industry.",
+    "bleu_score": 0.0248
+  },
+  {
+    "question": "what is neural network?",
+    "answer": "A neural network is a type of computational model inspired by the structure and function of biological neurons. It's essentially a parametrized family of functions that can learn and represent complex relationships between inputs and outputs through differentiable parametrization.",
+    "bleu_score": 0.0082
+  },
+  {
+    "question": "what is neural network? Explain in detail.",
+    "answer": "A neural network is a type of computational model inspired by the structure and function of biological neurons. It's essentially a complex system of interconnected nodes or \"neurons\" that process and transmit information.\n\nImagine a family of functions with differentiable parameters, which are parametrized (or shaped) in a way that allows them to learn from data. The most basic architecture of a neural network is the feedforward neural network or multilayer perceptron (MLP), consisting of an input layer, one or more hidden layers, and an output layer.\n\nThink of it like a layered cake:\n\n1. **Input Layer**: This is where the initial information or data enters the network.\n2. **Hidden Layers**: These are the \"hidden\" layers that perform complex computations on the input data. Each node in these layers receives inputs from previous nodes, applies some transformation (such as an activation function), and then passes the result to the next layer.\n3. **Output Layer**: This is where the final output or prediction is made.\n\nThe neural network works by propagating information through these layers, using a process called forward propagation. The hidden layers apply complex transformations to the input data, allowing the network to learn abstract representations of that data. As the data flows through each layer, it's transformed and modified in various ways, which allows the network to make predictions or decisions based on the input.\n\nThe key characteristics of neural networks are:\n\n* **Parametrization**: The parameters (weights and biases) of each node determine how the input data is transformed.\n* **Activation Functions**: These functions introduce non-linearity into the system, allowing it to learn complex relationships between inputs and outputs.\n* **Backpropagation**: An optimization algorithm that allows the network to adjust its parameters based on the error between predicted output and actual output.\n\nNeural networks have become increasingly popular in various fields, including machine learning, computer vision, and natural language processing. They're particularly effective at solving complex problems that involve pattern recognition, classification, regression, and prediction.\n\nHowever, neural networks are also subject to certain challenges, such as:\n\n* **Overfitting**: When the network becomes too specialized to the training data and fails to generalize well to new, unseen data.\n* **Underfitting**: When the network is too simple and fails to capture important patterns or relationships in the data.\n\nTo address these challenges, researchers have developed various techniques, such as regularization, early stopping, and transfer learning.",
+    "bleu_score": 0.074
+  },
+  {
+    "question": "Explain the plot of book Alice in wonderland.",
+    "answer": "I couldn't find any information about a book called \"Alice in Wonderland\" in the provided context. The text appears to be metadata for a PDF document containing multiple prompts, including some related to creative writing and personal development.\n\nIf you would like, I can try to help you with a different topic or provide assistance with one of the prompts from the original document.",
+    "bleu_score": 0.001
+  },
+  {
+    "question": "who is charlin chaplin",
+    "answer": "Charlie Chaplin was a famous English actor, filmmaker, and composer. He is best known for his iconic character \"the Tramp\" in silent films. Born on April 16, 1889, he had a long and successful career that spanned over 75 years, including roles in movies like Monsieur Verdoux and Limelight.",
+    "bleu_score": 0.0015
+  },
+  {
+    "question": "what is neural network?",
+    "answer": "A neural network is a type of computational model inspired by the structure and function of biological neurons. It's essentially a parametrized family of functions that can be viewed as a differentiable parametrization. In simpler terms, it's a way to represent complex relationships between inputs and outputs using layers of interconnected nodes (or \"neurons\") with weights and activation functions that help them learn from data.",
+    "bleu_score": 0.0308
+  },
+  {
+    "question": "what is neutral language",
+    "answer": "Neutral language refers to a type of communication that avoids taking a biased or favorable stance on an issue, person, or group. It aims to present information in a fair, balanced, and objective manner, without expressing personal opinions or emotions.\n\nIn the context of open-ended language generation, neutral language is particularly important as it can help reduce biases in generated text and ensure that output is accurate, informative, and respectful.",
+    "bleu_score": 0.0048
+  },
+  {
+    "question": "what is neutral language",
+    "answer": "Neutral language refers to a type of communication that avoids taking sides or promoting any particular perspective, opinion, or emotion. It aims to convey information in an objective and unbiased manner, without expressing personal views or values. Neutral language can be particularly useful in academic, professional, and formal settings where objectivity is crucial.",
+    "bleu_score": 0.0011
+  },
+  {
+    "question": "What is the pdf name where 'neutral language' is present?",
+    "answer": "The PDF file's metadata contains information about its production. \n\nIn this case, the producer of the PDF file is \"pdfTeX-1.40.25\".",
+    "bleu_score": 0
+  }
+]
